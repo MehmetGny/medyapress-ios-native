@@ -3,6 +3,7 @@ options:
   bundleIdPrefix: press.medya
   deploymentTarget:
     iOS: "15.0"
+
 targets:
   MedyaPress:
     type: application
@@ -10,5 +11,8 @@ targets:
     deploymentTarget: "15.0"
     sources:
       - MedyaPress
+      - WebView.swift
+      - MedyaPressApp.swift
+      - LaunchScreen.storyboard
     info:
       path: MedyaPress/Info.plist
