@@ -1,0 +1,14 @@
+name: MedyaPress
+options:
+  bundleIdPrefix: press.medya
+  deploymentTarget:
+    iOS: "15.0"
+targets:
+  MedyaPress:
+    type: application
+    platform: iOS
+    deploymentTarget: "15.0"
+    sources:
+      - MedyaPress
+    info:
+      path: MedyaPress/Info.plist

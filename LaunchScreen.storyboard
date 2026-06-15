@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" targetRuntime="iOS.CocoaTouch" useAutolayout="YES" launchScreen="YES"><scenes><scene sceneID="Launch"><objects><viewController id="VC" sceneMemberID="viewController"><view key="view" id="view"><color key="backgroundColor" red="0.962" green="0.509" blue="0.125" alpha="1" colorSpace="custom" customColorSpace="sRGB"/></view></viewController></objects></scene></scenes></document>
